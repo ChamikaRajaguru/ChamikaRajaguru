@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Chamika Rajaguru
-Front-End Developer and Content Creator
+
 
 🎓 I’m Software Engineering Undergraduate at NSBM Green University.
 
