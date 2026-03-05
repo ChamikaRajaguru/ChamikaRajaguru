@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi, I'm Chamika Rajaguru<br><br>I'm a passionate Web Developer and DevOps Enthusiast who loves building scalable, efficient, and user-focused web applications. I enjoy turning ideas into real-world products and continuously improving development workflows through automation and modern DevOps practices<br><br>🚀 What I Do<br><br>Build responsive and performant web applications<br><br>Design clean and maintainable frontend & backend architectures<br><br>Work with CI/CD pipelines, automation, and cloud-native tools<br><br>Explore DevOps culture, infrastructure, and deployment strategies
+
 
 
 ## 🌐 Socials:
